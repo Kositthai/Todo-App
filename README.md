@@ -1,5 +1,5 @@
-# Todo App -  app that makes it easy to stay organized and manage your life.
-    a simple todo app created with React that you can add remove and edit your todo list along with usage time that you spend on the app
+# Todo App
+Simple React-based todo app that allows you to add, remove, and edit items on your todo list. Additionally, it tracks the amount of time you spend using the app.
 
 ## Technologies 
 * React: ^18.2.0
